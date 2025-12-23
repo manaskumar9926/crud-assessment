@@ -1,0 +1,7 @@
+name,price,image,categoryId
+Wireless Mouse,25.99,https://example.com/mouse.jpg,1
+Gaming Keyboard,79.50,https://example.com/keyboard.jpg,1
+Coffee Mug,12.00,,2
+Desk Lamp,35.00,https://example.com/lamp.jpg,2
+Invalid Product,abc,image.jpg,1
+Non-existent Category,10.00,image.jpg,999
